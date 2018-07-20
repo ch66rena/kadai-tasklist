@@ -57,3 +57,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'kaminari'
 
 gem 'pry-byebug' , group: :development
+
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
